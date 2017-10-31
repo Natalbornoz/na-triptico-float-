@@ -1,0 +1,57 @@
+
+.enunciado{
+    background-color: #ffc107 ;
+    border: 2px solid black;
+    width: 31.2em;
+    height: 1.5em;
+    text-align: center;
+    position: absolute;
+}
+.antes{
+    display: inline-block;
+    border: 1px solid black;
+    width: 9em;
+    height: 30em;
+    text-align:center;
+    position: relative;
+    top: 1.6em;
+    float: left;
+}
+.foto1{
+    width: 200px;
+    height: 200px;
+}
+.monopoly{
+    display: inline-block;
+
+    width: 13em;
+    height: 30em;
+    text-align: center;
+    position: relative;
+    top: 26px;
+    float: left;
+}
+.ahora{
+    display: inline-block;
+    border: 1px solid black;
+    width: 9em;
+    height: 30em;
+    text-align:center;
+    position: relative;
+    top: 1.6em;
+    float: left;
+}
+.info{
+    background-color: #ffc107 ;
+    border: 2px solid black;
+    width: 31.2em;
+    height: 1.5em;
+    text-align: center;
+    position: relative;
+    top: 507px;
+
+
+}
+.foto2{
+    width: 200px;
+    height: 200px;
